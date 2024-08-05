@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Hello. My name is Alex. This is a blog."
 featured_image: '/image/arcade.jpg'
 menu:
   main:
@@ -8,4 +8,32 @@ menu:
 ---
 {{< figure src="/image/arcade.jpg" title="Me and my lil bro shooting zombies" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Favorite hobbies:
+- sailing
+- painting
+- reading
+- cooking
+- Hiking
+- Collecting puns
+- dilly-dallying
+
+Favorite movies:
+- Bladerunner:2049
+- Seven Samurai
+- The Ballad of Buster Scruggs
+- Princess Mononoke
+
+Favorite foods:
+- Mango
+- Chocolate cheesecake
+- Sinigang
+- Rice
+
+Favorite books:
+- East of Eden
+- The Little Prince
+- 4000 weeks: Time Management for Mortals
+- Catch-22
+- Art and Fear
+
+![Alex in a racoon hat in front of a cake](/image/birthday.jpg "A good birthday")
