@@ -1,7 +1,7 @@
 ---
 date : 2024-08-02T14:55:38-04:00
 description: "howtostayintouch"
-featured_image: "/image/jeep.jpg"
+featured_image: "./image/jeep.jpg"
 tags: [parenthood, how to]
 title: "How to Stay In Touch With Your Personal Goals as a New Mom"
 disable_share: false
