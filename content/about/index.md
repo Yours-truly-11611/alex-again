@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/image/arcade.jpg" title="Me and my lil bro shooting zombies" >}}
+{{< figure src="/image/hobie.jpg" title="Riding the winds with a friend" >}}
 
 Favorite hobbies:
 - sailing
