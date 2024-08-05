@@ -5,7 +5,7 @@ description: "The site where Alex dumps her thoughts."
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/image/elephantrock.jpg'
+  featured_image: './image/elephantrock.jpg'
 ---
 Why let my thoughts collect dust on the shelves, sandwiched between the pages of my several notebooks? Here they're laid out for public interaction. It's an exercise in vulnerability.
 
