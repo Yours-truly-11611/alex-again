@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How To on It&#39;s Alex Again</title>
+    <link>http://localhost:1313/tags/how-to/</link>
+    <description>Recent content in How To on It&#39;s Alex Again</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2024 14:55:38 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flying Solo With Baby</title>
+      <link>http://localhost:1313/post/flying-solo-with-baby/</link>
+      <pubDate>Fri, 02 Aug 2024 14:55:38 -0400</pubDate>
+      <guid>http://localhost:1313/post/flying-solo-with-baby/</guid>
+      <description>At 4 months I took my first flight with my baby boy. Alone! And I&amp;rsquo;m happy to report that flying with a baby isn&amp;rsquo;t as bad as you might fear.</description>
+    </item>
+    <item>
+      <title>How to Stay In Touch With Your Personal Goals as a New Mom</title>
+      <link>http://localhost:1313/post/how-to-stay-in-touch-with-your-personal-goals-as-a-new-mom/</link>
+      <pubDate>Fri, 02 Aug 2024 14:55:38 -0400</pubDate>
+      <guid>http://localhost:1313/post/how-to-stay-in-touch-with-your-personal-goals-as-a-new-mom/</guid>
+      <description>There are two philosophies to this:&#xA;a) spending a little time on every little thing you want,</description>
+    </item>
+  </channel>
+</rss>

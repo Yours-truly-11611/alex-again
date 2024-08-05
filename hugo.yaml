@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Alex Again
+theme: ananke
+
+homeInfoParams:
+Title: It's Alex Again
+Content: Nice to meet you.
+summaryLength: 15
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: page
+
