@@ -13,7 +13,7 @@ menu:
 
 {{< figure src="/image/arcade.jpg" title="Me and my lil bro shooting zombies" >}}
 
-Email me at
+Shoot me a message at
 
 alexagain.art@gmail.com 
 
