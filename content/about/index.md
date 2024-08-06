@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Hello. My name is Alex. This blog is a creative experiment. The aim is to learn about basic web development while sharing my thoughts."
-featured_image: '/image/arcade.jpg'
+featured_image: '/image/tall.jpg'
 menu:
   main:
     weight: 1
