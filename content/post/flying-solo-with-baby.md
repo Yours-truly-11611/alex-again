@@ -1,7 +1,7 @@
 ---
 date : 2024-08-02T14:55:38-04:00
 description: "The art of staying sane"
-featured_image: "/image/arcade.jpg"
+featured_image: "/image/mountain.jpg"
 tags: [parenthood, how to]
 title: "Flying Solo With Baby"
 disable_share: false
