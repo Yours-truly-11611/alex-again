@@ -8,7 +8,7 @@ menu:
   contact:
     weight: 2
 ---
-{{< figure src="/image/hobie.jpg" title="Riding the winds with a friend" >}}
+{{< figure src="/image/hobie.JPG" title="Riding the winds with a friend" >}}
 
 Favorite hobbies:
 - sailing
