@@ -5,7 +5,7 @@ tags: []
 featured_image: "image/spin.jpg"
 description: "Let's chat."
 menu:
-  about
+  about:
     weight: 1
   main:
     weight: 2
