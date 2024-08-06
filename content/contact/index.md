@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2024-08-05T09:49:32-04:00
 tags: []
-featured_image: "image/spin.JPG"
+featured_image: "image/kiikatsura.jpg"
 description: "Let's chat."
 menu:
   about:
