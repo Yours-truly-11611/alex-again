@@ -7,7 +7,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: './image/elephantrock.jpg'
 ---
-All posts are not final; you'll find a "last modified" date instead of a publish date. Think of my posts as ongoing thought processes.
+All posts are not final. Think of my posts as ongoing thought processes.
 
 I'm inexperienced in the realm of electronic wizardry, so this blog is my little html creative playground.
 
