@@ -1,8 +1,13 @@
 ---
 title: "Draft1"
-date: 2024-08-06T09:08:27-04:00
+date: 2024-08-20T22:04:57-04:00
 tags: []
 featured_image: ""
 description: ""
-draft: true
+show_reading_time: true
+showToc: true
 ---
+
+{{< figure src="/image/hobie.JPG" title="Riding the winds with a friend" >}}
+
+hello wioihkjb
