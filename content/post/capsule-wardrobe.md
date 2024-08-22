@@ -6,6 +6,7 @@ featured_image: ""
 description: ""
 show_reading_time: true
 ---
+
 # Outdoorsy Capsule Wardrobe for Nursing Mom
 
 Why even think about my wardrobe? I don’t have lots of time to figure out what to wear, so I hope organizing it in this way will help me live more mindfully.

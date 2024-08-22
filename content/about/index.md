@@ -10,7 +10,7 @@ menu:
 ---
 {{< figure src="/image/hobie.JPG" title="Riding the winds with a friend" >}}
 
-Favorite hobbies:
+##Favorite hobbies:
 - sailing
 - painting
 - reading
@@ -19,19 +19,19 @@ Favorite hobbies:
 - Collecting puns
 - dilly-dallying
 
-Favorite movies:
+##Favorite movies:
 - Bladerunner:2049
 - Seven Samurai
 - The Ballad of Buster Scruggs
 - Princess Mononoke
 
-Favorite foods:
+##Favorite foods:
 - Mango
 - Chocolate cheesecake
 - Sinigang
 - Rice
 
-Favorite books:
+##Favorite books:
 - East of Eden
 - The Little Prince
 - 4000 weeks: Time Management for Mortals
