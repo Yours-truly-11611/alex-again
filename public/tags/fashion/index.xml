@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion on It&#39;s Alex Again</title>
+    <link>http://localhost:1313/tags/fashion/</link>
+    <description>Recent content in Fashion on It&#39;s Alex Again</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2024 20:38:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capsule Wardrobe</title>
+      <link>http://localhost:1313/post/capsule-wardrobe/</link>
+      <pubDate>Tue, 20 Aug 2024 20:27:12 -0400</pubDate>
+      <guid>http://localhost:1313/post/capsule-wardrobe/</guid>
+      <description>Outdoorsy Capsule Wardrobe for Nursing Mom Why even think about my wardrobe? I don’t have lots of time to figure out what to wear, so I hope organizing it in this way will help me live more mindfully.</description>
+    </item>
+  </channel>
+</rss>

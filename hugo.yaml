@@ -2,6 +2,7 @@ baseURL: https://alexagain.com/
 languageCode: en-us
 title: Alex Again
 theme: ananke
+enableGitInfo: true
 
 homeInfoParams:
 Title: It's Alex Again
@@ -12,3 +13,10 @@ pagination:
   pagerSize: 10
   path: page
 
+Params:
+  ananke_socials:
+  - name: instagram
+    url: https://www.instagram.com/alex_in_orbit/
+    label: Insta
+
+  site_logo: logo.png
